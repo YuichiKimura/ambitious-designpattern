@@ -3,7 +3,7 @@ package jp.ktsystem.ambitious.designpattern.strategy;
 public class Main {
 
 	/**
-	 * @param args 酒井だよー
+	 * @param args やっぱり酒井だよー
 	 */
 	public static void main(String[] args) {
 

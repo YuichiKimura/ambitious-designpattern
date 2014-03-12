@@ -13,6 +13,7 @@ public class Main {
 
 	public static void main(String[] argus) {
 
+		// コメントを修正
 		IteratorClass i = obtainIterator();
 
 		while (i.hasNext()) {
@@ -37,7 +38,7 @@ public class Main {
 		list.add("A");
 		list.add("B");
 		list.add("b");
-
+		list.add("C");
 		return new IteratorClass(list);
 	}
 
